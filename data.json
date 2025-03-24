@@ -1,10 +1,8 @@
-
 [
   {
     "id": 1,
     "title": "Gløgg",
-    "picture_url":
-      "https://www.santamariaworld.com/optimized/maximum/globalassets/_recipes/christmas-recipes/vit-glogg-med-kanel-kardemumma-och-apelsin.jpg",
+    "picture_url": "https://www.santamariaworld.com/optimized/maximum/globalassets/_recipes/christmas-recipes/vit-glogg-med-kanel-kardemumma-och-apelsin.jpg",
     "ingredients": [
       { "NAME": "Orange zest", "AMOUNT": "0.5" },
       { "NAME": "Water", "AMOUNT": "200 ml" },
@@ -23,8 +21,7 @@
   {
     "id": 2,
     "title": "Creamy Garlic Mushroom Penne",
-    "picture_url":
-      "https://butterbuddies.ca/cdn/shop/articles/3C4E1B5B-0D00-4C58-B46A-B95867FFE172.jpg?v=1685654872&width=1100",
+    "picture_url": "https://butterbuddies.ca/cdn/shop/articles/3C4E1B5B-0D00-4C58-B46A-B95867FFE172.jpg?v=1685654872&width=1100",
     "ingredients": [
       { "NAME": "Chicken", "AMOUNT": "500 gr" },
       { "NAME": "Lemon", "AMOUNT": "2 pieces" },
@@ -43,8 +40,7 @@
   {
     "id": 3,
     "title": "Orange, almond and polenta cake",
-    "picture_url":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iVxjZldgC0KUSbeSVU28CbOgBvgFFyOIpw&s",
+    "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iVxjZldgC0KUSbeSVU28CbOgBvgFFyOIpw&s",
     "ingredients": [
       { "NAME": "Butter ", "AMOUNT": "200  g" },
       { "NAME": " Demerara sugar", "AMOUNT": "200 g" },
@@ -55,16 +51,14 @@
       { "NAME": "Orange blossom water", "AMOUNT": "1 tsp" },
       { "NAME": "Baking powder", "AMOUNT": "1tsp" }
     ],
-    "description":
-      "To make the syrup place the orange and lemon juice in a small saucepan with the sugar, orange blossom water and star anise. Bring to the boil and simmer gently for 20 minutes. Set aside to cool to room temperature.",
+    "description": "To make the syrup place the orange and lemon juice in a small saucepan with the sugar, orange blossom water and star anise. Bring to the boil and simmer gently for 20 minutes. Set aside to cool to room temperature.",
     "category": "Cake",
     "cooking_time": 45
   },
   {
     "id": 4,
     "title": "Tomato salad with sumac",
-    "picture_url":
-      "https://simplefood.blog/wp-content/uploads/2019/04/tomato-mezze2.jpg?w=1024",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2019/04/tomato-mezze2.jpg?w=1024",
     "ingredients": [
       { "NAME": "Red or pink onion", "AMOUNT": " 1" },
       { "NAME": "Lemon zest", "AMOUNT": " 2 tsp" },
@@ -74,7 +68,6 @@
       { "NAME": "Sea salt", "AMOUNT": "1 tsp" },
       { "NAME": "Oregano", "AMOUNT": "1 bunch" },
       { "NAME": "Parsley", "AMOUNT": "1tsp" }
-      
     ],
     "description": "Mix everything, put them in a bowl and enjoy it!",
     "category": "Salad",
@@ -83,8 +76,7 @@
   {
     "id": 5,
     "title": "Baked chicken with bacon",
-    "picture_url":
-      "https://simplefood.blog/wp-content/uploads/2020/05/chicken-with-cider2.png?w=1024",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2020/05/chicken-with-cider2.png?w=1024",
     "ingredients": [
       { "NAME": "Chicken", "AMOUNT": "4" },
       { "NAME": "Water", "AMOUNT": "200 ml" },
@@ -94,16 +86,14 @@
       { "NAME": "Salt", "AMOUNT": " 1 tsp" },
       { "NAME": "Pepper", "AMOUNT": "1 tsp" }
     ],
-    "description":
-      "Add the chicken and brown the pieces all over until golden brown. Remove from the pan, and set aside. Place the onion, garlic, bacon and thyme into the pan and saute until the onion is softened. Take care not to burn the garlic. Turn the heat up to high.",
+    "description": "Add the chicken and brown the pieces all over until golden brown. Remove from the pan, and set aside. Place the onion, garlic, bacon and thyme into the pan and saute until the onion is softened. Take care not to burn the garlic. Turn the heat up to high.",
     "category": "Chicken",
     "cooking_time": 45
   },
   {
     "id": 6,
     "title": "Rainbow salad with haloumi",
-    "picture_url":
-      "https://simplefood.blog/wp-content/uploads/2020/03/rainbow-salad2.jpg?w=1024",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2020/03/rainbow-salad2.jpg?w=1024",
     "ingredients": [
       { "NAME": "Mixed salad leaves", "AMOUNT": "120 gr" },
       { "NAME": "Carrots", "AMOUNT": "2" },
@@ -117,16 +107,14 @@
       { "NAME": "Pepitas", "AMOUNT": " 1/3 cup" },
       { "NAME": "Beetroot", "AMOUNT": " 1 medium size" }
     ],
-    "description":
-      "Dice capsicums into 1 cm square pieces. Peel carrots and julienne. Peel beetroot and julienne. Keep the beetroot separate from the other ingredients so its rich purple juice doesn’t stain the other ingredients. Cut the tomatoes into halves. Using a sharp knife cut the kernels off the corn cobs. Roughly chop the parsley and snip the chives. Make the dressing. Place 2 1/2 tablespoons olive oil, the lemon juice, capers and chilli flakes in a small glass jar with a lid. ",
+    "description": "Dice capsicums into 1 cm square pieces. Peel carrots and julienne. Peel beetroot and julienne. Keep the beetroot separate from the other ingredients so its rich purple juice doesn’t stain the other ingredients. Cut the tomatoes into halves. Using a sharp knife cut the kernels off the corn cobs. Roughly chop the parsley and snip the chives. Make the dressing. Place 2 1/2 tablespoons olive oil, the lemon juice, capers and chilli flakes in a small glass jar with a lid. ",
     "category": "Salad",
     "cooking_time": 25
   },
   {
     "id": 7,
     "title": "Chilli prawns with pasta",
-    "picture_url":
-      "https://simplefood.blog/wp-content/uploads/2017/07/chilli-prawns.jpg?w=1024",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2017/07/chilli-prawns.jpg?w=1024",
 
     "ingredients": [
       { "NAME": "Olive oil", "AMOUNT": "1 tsp" },
@@ -137,10 +125,10 @@
       { "NAME": "Prawn", "AMOUNT": "1 kg" },
       { "NAME": "Parsley", "AMOUNT": "2 tsp" },
       { "NAME": "Salt", "AMOUNT": "1 tsp" },
-      { "NAME": "Lemon", "AMOUNT": " 1 large" }
+      { "NAME": "Lemon", "AMOUNT": " 1 large" },
+      { "NAME": "Pasta", "AMOUNT": " 500 g" }
     ],
-    "description":
-      "Heat the olive oil in a large frying pan over medium heat. Saute the garlic and chilli for a couple of minutes.  As soon as the water is boiling, add the pasta to the pot. Add the wine to the pan with the chilli and garlic and cook for a minute or two. Add the prawns and cook until they change colour and are just cooked through. By this time the pasta should be just about ready. Add the butter to the prawns and stir to coat them. Drain the pasta in a colander and then add to the prawns. Toss together with the lemon zest and parsley, check the seasoning and add salt to taste. Serve immediately.",
+    "description": "Heat the olive oil in a large frying pan over medium heat. Saute the garlic and chilli for a couple of minutes.  As soon as the water is boiling, add the pasta to the pot. Add the wine to the pan with the chilli and garlic and cook for a minute or two. Add the prawns and cook until they change colour and are just cooked through. By this time the pasta should be just about ready. Add the butter to the prawns and stir to coat them. Drain the pasta in a colander and then add to the prawns. Toss together with the lemon zest and parsley, check the seasoning and add salt to taste. Serve immediately.",
     "category": "Pasta",
     "cooking_time": 30
   }
