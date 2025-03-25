@@ -64,7 +64,7 @@
       { "NAME": "Lemon zest", "AMOUNT": " 2 tsp" },
       { "NAME": "Pine nuts", "AMOUNT": "1/2 cup" },
       { "NAME": "Red wine vinegar", "AMOUNT": "1/2 cup" },
-      { "NAME": "Olive oil", "AMOUNT": "1 tsp" },
+      { "NAME": "Olive Oil", "AMOUNT": "1 tsp" },
       { "NAME": "Sea salt", "AMOUNT": "1 tsp" },
       { "NAME": "Oregano", "AMOUNT": "1 bunch" },
       { "NAME": "Parsley", "AMOUNT": "1tsp" }
@@ -80,7 +80,7 @@
     "ingredients": [
       { "NAME": "Chicken", "AMOUNT": "4" },
       { "NAME": "Water", "AMOUNT": "200 ml" },
-      { "NAME": "Olive oil", "AMOUNT": " 1 tsp" },
+      { "NAME": "Olive Oil", "AMOUNT": " 1 tsp" },
       { "NAME": "Brown onion", "AMOUNT": "1" },
       { "NAME": "Thyme", "AMOUNT": "3 tsp" },
       { "NAME": "Salt", "AMOUNT": " 1 tsp" },
@@ -117,7 +117,7 @@
     "picture_url": "https://simplefood.blog/wp-content/uploads/2017/07/chilli-prawns.jpg?w=1024",
 
     "ingredients": [
-      { "NAME": "Olive oil", "AMOUNT": "1 tsp" },
+      { "NAME": "Olive Oil", "AMOUNT": "1 tsp" },
       { "NAME": "Garlic", "AMOUNT": "4 cloves" },
       { "NAME": "Red chili", "AMOUNT": "1" },
       { "NAME": "White wine", "AMOUNT": "80 ml" },
