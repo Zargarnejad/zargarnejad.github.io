@@ -42,7 +42,7 @@
     "title": "Orange, almond and polenta cake",
     "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iVxjZldgC0KUSbeSVU28CbOgBvgFFyOIpw&s",
     "ingredients": [
-      { "NAME": "Butter ", "AMOUNT": "200  g" },
+      { "NAME": "Butter", "AMOUNT": "200  g" },
       { "NAME": " Demerara sugar", "AMOUNT": "200 g" },
       { "NAME": "Sugar", "AMOUNT": "125 g" },
       { "NAME": "Eggs", "AMOUNT": "5" },
