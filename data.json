@@ -14,7 +14,7 @@
       { "NAME": "Raisins", "AMOUNT": "100 g" },
       { "NAME": "Slipped Almonds", "AMOUNT": "50 g" }
     ],
-    "description": "Mix everything, heat it, and you are good to go!",
+    "description": "Mix everything, heat it, and you are good to go!,Thinly peel the zest of half an orange with a vegetable peeler. Juice both oranges and add the zest and juice to a saucepan. Add water, spices and dark brown sugar to the saucepan. Bring to the boil and simmer over medium heat for 30 minutes. Remove the orange zest and whole spices from the saucepan and continue to serving instructions – or, for more intense flavour, turn off the heat and let the mixture soak overnight before removing the zest and spices.",
     "category": "Drink",
     "cooking_time": 1
   },
@@ -33,7 +33,7 @@
       { "NAME": "Cumin", "AMOUNT": "1pices" },
       { "NAME": "Potato", "AMOUNT": "500 kg" }
     ],
-    "description": "Mix everything, heat it, and you are good to go!",
+    "description": "Bring a large pot of lightly salted water to a boil. Place the penne pasta in the pot, cook for 8 to 10 minutes, until al dente, and drain.Heat the oil in a large skillet over medium heat, and cook the garlic and mushrooms until mushrooms are tender. Season with salt and pepper, and mix in the butter.In a large bowl, toss the cooked pasta and the mushroom mixture. Sprinkle with Parmesan cheese and garnish with parsley to serve.",
     "category": "Pasta",
     "cooking_time": 40
   },
@@ -69,7 +69,7 @@
       { "NAME": "Oregano", "AMOUNT": "1 bunch" },
       { "NAME": "Parsley", "AMOUNT": "1tsp" }
     ],
-    "description": "Mix everything, put them in a bowl and enjoy it!",
+    "description": "Cut tomatoes lengthwise into quarters and gently give them a squeeze to remove some of the seeds and excess liquid. Slice the tomatoes thinly and place into a large bowl.Cut cucumber into 1/4-inch pieces and add to the bowl. Cut onion into 1/4-inch slivers and add to the bowl with parsley. Sprinkle with sumac and salt and toss to coat. Let sit for at least 15 minutes for flavors to meld, the longer the better.Add arugula to the bowl and drizzle with lemon juice and olive oil. Toss to coat and adjust salt if needed. Serve immediately.",
     "category": "Salad",
     "cooking_time": 30
   },
