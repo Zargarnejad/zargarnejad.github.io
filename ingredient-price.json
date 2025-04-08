@@ -49,5 +49,10 @@
   { "NAME": "White wine", "Price": 100 },
   { "NAME": "Prawn", "Price": 18 },
   { "NAME": "Parsley", "Price": 23 },
-  { "NAME": "Pasta", "Price": 15 }
+  { "NAME": "Egg", "Price": 6 },
+  { "NAME": "Nutella", "Price": 50 },
+  { "NAME": "Flour", "Price": 20 },
+  { "NAME": "Huzelnut", "Price": 45 },
+  { "NAME": "Raspberries", "Price": 15 },
+  { "NAME": "Noodle", "Price": 15 }
 ]
