@@ -61,7 +61,7 @@
     "picture_url": "https://simplefood.blog/wp-content/uploads/2019/04/tomato-mezze2.jpg?w=1024",
     "ingredients": [
       { "NAME": "Red or pink onion", "AMOUNT": " 1" },
-      { "NAME": "Lemon zest", "AMOUNT": " 2 tsp" },
+      { "NAME": "Lemon zest", "AMOUNT": "2 tsp" },
       { "NAME": "Pine nuts", "AMOUNT": "1/2 cup" },
       { "NAME": "Red wine vinegar", "AMOUNT": "1/2 cup" },
       { "NAME": "Olive Oil", "AMOUNT": "1 tsp" },
@@ -83,7 +83,7 @@
       { "NAME": "Olive Oil", "AMOUNT": " 1 tsp" },
       { "NAME": "Brown onion", "AMOUNT": "1" },
       { "NAME": "Thyme", "AMOUNT": "3 tsp" },
-      { "NAME": "Salt", "AMOUNT": " 1 tsp" },
+      { "NAME": "Salt", "AMOUNT": "1 tsp" },
       { "NAME": "Pepper", "AMOUNT": "1 tsp" }
     ],
     "description": "Add the chicken and brown the pieces all over until golden brown. Remove from the pan, and set aside. Place the onion, garlic, bacon and thyme into the pan and saute until the onion is softened. Take care not to burn the garlic. Turn the heat up to high.",
@@ -103,9 +103,9 @@
       { "NAME": "Capers", "AMOUNT": "2 tsp" },
       { "NAME": "Chili flakes", "AMOUNT": "1/2 tsp" },
       { "NAME": "Lemon juice", "AMOUNT": "3 tsp" },
-      { "NAME": "Chives", "AMOUNT": " 1 small bunch" },
-      { "NAME": "Pepitas", "AMOUNT": " 1/3 cup" },
-      { "NAME": "Beetroot", "AMOUNT": " 1 medium size" }
+      { "NAME": "Chives", "AMOUNT": "1  bunch" },
+      { "NAME": "Pepitas", "AMOUNT": "1/3 cup" },
+      { "NAME": "Beetroot", "AMOUNT": "1 medium" }
     ],
     "description": "Dice capsicums into 1 cm square pieces. Peel carrots and julienne. Peel beetroot and julienne. Keep the beetroot separate from the other ingredients so its rich purple juice doesn’t stain the other ingredients. Cut the tomatoes into halves. Using a sharp knife cut the kernels off the corn cobs. Roughly chop the parsley and snip the chives. Make the dressing. Place 2 1/2 tablespoons olive oil, the lemon juice, capers and chilli flakes in a small glass jar with a lid. ",
     "category": "Salad",
