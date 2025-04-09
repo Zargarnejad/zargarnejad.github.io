@@ -223,6 +223,62 @@
     ],
     "description": "In a medium bowl, mix together the mince, egg, onion, garlic, chilli, cumin seeds, parsley, pine nuts and a good seasoning of sea salt and black pepper. Form into 6 portions and shape into rounds with your hands and then pan fry over medium heat in a non stick pan for about 6 minutes per side, until cooked. While the burgers are cooking, finely chop the mint and stir through the greek yoghurt. Serve the burgers on the rolls with the hummus, capsicum, minted yoghurt and rocket. It will be messy, but glorious.",
     "category": "Meat",
-    "cooking_time": 55 
+    "cooking_time": 55
+  },
+
+  {
+    "id": 13,
+    "title": "Rocket, apple and parmesan salad",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2013/04/lamb-burger2-resized.jpg?w=625",
+    "ingredients": [
+      { "NAME": "Fresh corn", "AMOUNT": "2 cobs" },
+      { "NAME": "Pecan nuts", "AMOUNT": "1/2 cup" },
+      { "NAME": "Capers", "AMOUNT": "2 tsp" },
+      { "NAME": "Chili flakes", "AMOUNT": "1/2 tsp" },
+      { "NAME": "Lemon juice", "AMOUNT": "3 tsp" },
+      { "NAME": "Chives", "AMOUNT": "1  bunch" },
+      { "NAME": "Pepitas", "AMOUNT": "1/3 cup" },
+      { "NAME": "Beetroot", "AMOUNT": "1 medium" }
+    ],
+    "description": "Summer is perfect for salads and many meals I make in this season revolve around a salad. It is easy, though, to slip into boring salad mode and turn out a perfectly nice, but ho-hum garden salad, just because it’s what first comes to mind. It’s no more effort to do something with a bit more creativity, it just needs an good idea. This salad brings together peppery, nutty, sweet and caramel flavours and some lovely contrasting textures, with Pink Lady apple as the star ingredient. There’s hardly anything to it, but it just works really well. It’s worth buying an unctuous, high quality aged balsamic vinegar for your pantry. It has such sweetness, complexity and depth of flavour and a little bit goes a long way.",
+    "category": "Meat",
+    "cooking_time": 55
+  },
+
+  {
+    "id": 14,
+    "title": "Doughnuts with strawberry sauce",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2018/08/donuts-resized.png",
+    "ingredients": [
+      { "NAME": "Butter", "AMOUNT": "200  g" },
+      { "NAME": " Demerara sugar", "AMOUNT": "200 g" },
+      { "NAME": "Sugar", "AMOUNT": "125 g" },
+      { "NAME": "Eggs", "AMOUNT": "5" },
+      { "NAME": "ground almonds", "AMOUNT": "200 g" },
+      { "NAME": "Orange zest", "AMOUNT": "2tsp" },
+      { "NAME": "Orange blossom water", "AMOUNT": "1 tsp" },
+      { "NAME": "Baking powder", "AMOUNT": "1tsp" }
+    ],
+    "description": "Melt the butter, milk and 2 tablespoons of the sunflower oil in a small saucepan over a medium heat. Combine the flour, baking powder, salt and 50 g sugar in a medium-sized bowl. Make a well in the middle, then tip in the warm milk mixture. Stir the mixture with a knife until it forms a soft, sticky dough.Heat the rest of the oil in a medium-sized deep saucepan pan until it reaches 180 C. The most useful kitchen tool I have ever bought, aside from a really good knife, is a kitchen thermometer. It’s the best way to ensure that the cooking temperature is correct and that the result is not soggy, oil soaked lumps, or brown and crisp but raw in the middle doughnuts.  But if you don’t have a thermometer, here are alternative ways to check the temperature of the oil.",
+    "category": "Dessert",
+    "cooking_time": 40
+  },
+
+  {
+    "id": 15,
+    "title": "Rich beef stew with winter vegetables",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2017/07/beef-stew1-resized.png",
+    "ingredients": [
+      { "NAME": "Lamb", "AMOUNT": "4" },
+      { "NAME": "Water", "AMOUNT": "200 ml" },
+      { "NAME": "Brown onion", "AMOUNT": "1" },
+      { "NAME": "Salt", "AMOUNT": "1 tsp" },
+      { "NAME": "Pepper", "AMOUNT": "1 tsp" },
+      { "NAME": "Carrots", "AMOUNT": "2" },
+      { "NAME": "Cherry tomatoes", "AMOUNT": "250 gr" }
+    ],
+    "description": "In a large, heavy based casserole dish heat the butter and oil over high heat and brown the beef in batches. Put the beef to one side, and then lower the heat. Cook the onions and garlic until they soften slightly and then add the browned beef and any juices, beef stock, tomato paste, sugar, smoked paprika and salt. Simmer covered, over low heat for 1 1/2 hours. Add the vegetables and cook for another 30 minutes, until the vegetables are cooked and the beef tender.  Serve with the gremolata and mashed potato or soft polenta.",
+    "category": "Meat",
+    "cooking_time": 55
   }
 ]
