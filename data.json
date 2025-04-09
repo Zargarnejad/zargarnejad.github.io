@@ -170,5 +170,23 @@
     "description": "Preheat oven to 180C (or 160C if fan-forced). Line a 28 cm x 19 cm shallow baking tray with silicon paper. Beat the eggs in an electric mixer on high speed for 8 – 10 minutes, until they are light and fluffy.  While the eggs are beating place the hazelnuts in a single layer on a flat tray and toast in the oven for 5 -6  minutes. Take out of the oven and place on a tea towel. Wrap up the nuts and then rub vigorously with your hands to remove the skins. Roughly chop the nuts and set aside. In a small saucepan gently heat the Nutella until it is softened and a little runny. While still beating, add the Nutella to the egg mixture along with the salt, and beat for another minute. Fold in the flour and frozen raspberries. Pour into the baking tin and smooth the surface gently. Sprinkle over the toasted hazelnuts and bake in the oven for 35 – 40 minutes until firm. Cool in the tin before slicing into squares. The brownies are very gooey so have patience and don’t try to slice them when they are hot. Before serving scatter over some fresh raspberries. Fabulous with a dollop of thick cream and a cup of coffee. The brownies will keep in the fridge for a few days, but take out of the fridge about half an hour before serving so they can get to room temperature.",
     "category": "Dessert",
     "cooking_time": 50
+  },
+  {
+    "id": 10,
+    "title": "Ricotta and raspberry tarts",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2015/06/ricotta-raspberry-tart3-resized.jpg",
+
+    "ingredients": [
+      { "NAME": "Egg", "AMOUNT": "4" },
+      { "NAME": "Nutella", "AMOUNT": "2 cups" },
+      { "NAME": "Flour", "AMOUNT": "1 cup" },
+      { "NAME": "Huzelnut", "AMOUNT": "1/2 cup" },
+      { "NAME": "Butter", "AMOUNT": "60 g" },
+      { "NAME": "Salt", "AMOUNT": "1 tsp" },
+      { "NAME": "Raspberries", "AMOUNT": " 500 g" }
+    ],
+    "description": "Preheat oven to 180 C. Lightly grease 8 individual tart tins. I used 8 cm diameter shallow tins with removable bases. If you don’t have individual tins you could just use a 20 cm diameter spring form tin and make one large tart. Carefully cut out the pastry to fit the tins, line the tins with the pastry rounds and carefully prick the insides with a fork. Place in the freezer for 10 minutes before baking. Blind bake using your preferred method for 10 minutes and then remove whatever you have used to weigh down the pastry and return to the oven for another 5 -6 minutes, or until lightly golden. Remove from the tins and cool on a wire rack. In a medium glass bowl beat together the ricotta, cream, icing sugar and vanilla until smooth. If making ahead, you might need to beat the mixture again just before serving as it will thicken a little in the fridge. When ready to serve, fill the pastry shells with the smooth ricotta and top with the raspberries. You can fill a couple of hours before serving, but any longer and the pastry might suffer and become limp and soggy. Dust with some extra icing sugar or a drizzle of chocolate ganache if you wish, or serve just on their own in all their bejeweled and creamy glory.",
+    "category": "Dessert",
+    "cooking_time": 50
   }
 ]
