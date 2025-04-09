@@ -55,5 +55,6 @@
   { "NAME": "Huzelnut", "Price": 45 },
   { "NAME": "Raspberries", "Price": 15 },
   { "NAME": "Noodle", "Price": 15 },
-  { "NAME": "Lamb", "Price": 80 }
+  { "NAME": "Lamb", "Price": 80 },
+  { "NAME": "Pasta", "Price": 10 }
 ]
