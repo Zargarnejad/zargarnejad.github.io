@@ -204,5 +204,25 @@
     "description": "Heat a large frying pan of grill until it is very hot. Meanwhile drizzle a little olive oil over the lamb and rub it in with your fingers. Sprinkle with the cumin and season well with salt and pepper. Cook in the hot pan or on the grill for 2 minutes per side, brushing with the sweet chilli sauce in the last minute of cooking. Place on a serving platter and sprinkle over the herbs. Serve with hummus, flat bread and a green salad for a delicious lunch or dinner.",
     "category": "Meat",
     "cooking_time": 60
+  },
+
+  {
+    "id": 12,
+    "title": "Lamb burgers with good things",
+    "picture_url": "https://simplefood.blog/wp-content/uploads/2013/04/lamb-burger2-resized.jpg?w=625",
+    "ingredients": [
+      { "NAME": "Lamb", "AMOUNT": "4" },
+      { "NAME": "Water", "AMOUNT": "200 ml" },
+      { "NAME": "Brown onion", "AMOUNT": "1" },
+      { "NAME": "Thyme", "AMOUNT": "3 tsp" },
+      { "NAME": "Salt", "AMOUNT": "1 tsp" },
+      { "NAME": "Pepper", "AMOUNT": "1 tsp" },
+      { "NAME": "Carrots", "AMOUNT": "2" },
+      { "NAME": "Cherry tomatoes", "AMOUNT": "250 gr" },
+      { "NAME": "Fresh corn", "AMOUNT": "2 cobs" }
+    ],
+    "description": "In a medium bowl, mix together the mince, egg, onion, garlic, chilli, cumin seeds, parsley, pine nuts and a good seasoning of sea salt and black pepper. Form into 6 portions and shape into rounds with your hands and then pan fry over medium heat in a non stick pan for about 6 minutes per side, until cooked. While the burgers are cooking, finely chop the mint and stir through the greek yoghurt. Serve the burgers on the rolls with the hummus, capsicum, minted yoghurt and rocket. It will be messy, but glorious.",
+    "category": "Meat",
+    "cooking_time": 55 
   }
 ]
