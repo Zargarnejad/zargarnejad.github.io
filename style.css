@@ -5,19 +5,19 @@
   box-sizing: border-box;
 }
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Segoe UI", sans-serif;
   line-height: 1.8;
-  background-color: #F4F4F4;
+  background-color: #f4f4f4;
   color: #333333;
   scroll-behavior: smooth;
 }
 a {
   text-decoration: none;
-  color: #0A3D62;
+  color: #0a3d62;
 }
 a:hover {
-  text-decoration: underline;
-  font-weight: bolder;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 /* Navbar */
@@ -26,11 +26,11 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 3rem;
-  background-color: #0A3D62;
+  background-color: #0a3d62;
   color: #ffffff;
 }
 .nav-links {
-    font-size:large;
+  font-size: large;
   list-style: none;
   display: flex;
   gap: 1rem;
@@ -41,6 +41,7 @@ a:hover {
 
 /* Hero Section */
 .hero {
+    font-size: 1.3rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -60,6 +61,13 @@ a:hover {
   text-align: center;
   padding-left: 1rem;
 }
+.heroTxtContainer h3{
+  color:#0a3d62;
+  font-weight: 100;
+  font-style: italic;
+  animation: alternate;
+
+}
 .heroImgContainer img {
   width: 340px;
   height: 420px;
@@ -68,14 +76,14 @@ a:hover {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   margin: 1rem 0;
 }
-.hero h1  {
-  color: #0A3D62;
+.hero h1 {
+  color: #0a3d62;
 }
 .btn {
   display: inline-block;
   margin-top: 1rem;
-  padding: 0.75rem 1.5rem;
-  background: #3C8DBC;
+  padding: 0.7rem 1rem;
+  background: #3c8dbc;
   color: #fff;
   border-radius: 7px;
 }
@@ -89,10 +97,16 @@ section {
 }
 h2 {
   margin-bottom: 1rem;
-  color: #0A3D62;
+  color: #0a3d62;
+}
+.about {
+  font-size: 1.3rem;
 }
 
 /* Project Section */
+.projects{
+  font-size: 1.3rem;
+}
 .project-list {
   display: flex;
   flex-direction: row;
@@ -104,12 +118,18 @@ h2 {
   background: #ffffff;
   padding: 1rem;
   border-radius: 10px;
-  width: 300px;
+  width: 30%;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
+.project-card:hover {
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
 .project-card h3 {
-  color: #0A3D62;
+  color: #0a3d62;
   margin-bottom: 0.5rem;
 }
 .project-card img {
@@ -122,23 +142,27 @@ h2 {
   display: block;
   margin: 0.25rem 0;
   font-weight: bold;
-  color: #3C8DBC;
+  color: #3c8dbc;
 }
 
 /* Contact */
+.contact{
+    font-size: 1.3rem;
+
+}
 .contact-list {
   list-style: none;
   line-height: 2;
 }
 .contact-list li strong {
-  color: #0A3D62;
+  color: #0a3d62;
 }
 
 /* Footer */
 footer {
   text-align: center;
   padding: 1rem;
-  background: #0A3D62;
+  background: #0a3d62;
   color: #fff;
 }
 
