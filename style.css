@@ -21,6 +21,10 @@ a:hover {
 }
 
 /* Navbar */
+.logo{
+  font-style: italic;
+  font-size: large;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -69,11 +73,9 @@ a:hover {
 
 }
 .heroImgContainer img {
-  width: 340px;
-  height: 420px;
   object-fit: cover;
   border-radius: 50% / 40%;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 0.1, 0.1, 0.5);
   margin: 1rem 0;
 }
 .hero h1 {
@@ -107,18 +109,21 @@ h2 {
 .projects{
   font-size: 1.3rem;
 }
+.projects h2{
+  margin-bottom: 1.5rem;
+}
 .project-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 2.5rem;
   justify-content: center;
 }
 .project-card {
   background: #ffffff;
   padding: 1rem;
   border-radius: 10px;
-  width: 30%;
+  width: 25%;
   text-align: center;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
