@@ -1,0 +1,202 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.8;
+  background-color: #F4F4F4;
+  color: #333333;
+  scroll-behavior: smooth;
+}
+a {
+  text-decoration: none;
+  color: #0A3D62;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  background-color: #0A3D62;
+  color: #ffffff;
+}
+.nav-links {
+    font-size:large;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+.nav-links li a {
+  color: #ffffff;
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 4rem 3rem;
+  background: linear-gradient(to right, #ffffff, #eaf1f8);
+}
+.heroTxtContainer {
+  flex: 1;
+  min-width: 300px;
+  padding-right: 2rem;
+  padding-left: 1rem;
+}
+.heroImgContainer {
+  flex: 1;
+  min-width: 300px;
+  text-align: center;
+  padding-left: 1rem;
+}
+.heroImgContainer img {
+  width: 340px;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 50% / 40%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  margin: 1rem 0;
+}
+.hero h1  {
+  color: #0A3D62;
+}
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #3C8DBC;
+  color: #fff;
+  border-radius: 7px;
+}
+.btn:hover {
+  background: #2f6d9f;
+}
+
+/* Sections */
+section {
+  padding: 3rem 3rem;
+}
+h2 {
+  margin-bottom: 1rem;
+  color: #0A3D62;
+}
+
+/* Project Section */
+.project-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+.project-card {
+  background: #ffffff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.project-card h3 {
+  color: #0A3D62;
+  margin-bottom: 0.5rem;
+}
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+.project-card a {
+  display: block;
+  margin: 0.25rem 0;
+  font-weight: bold;
+  color: #3C8DBC;
+}
+
+/* Contact */
+.contact-list {
+  list-style: none;
+  line-height: 2;
+}
+.contact-list li strong {
+  color: #0A3D62;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #0A3D62;
+  color: #fff;
+}
+
+/* ------------------------ */
+/* ✅ Responsive Design */
+/* ------------------------ */
+
+/* 📱 Mobile Devices (max 768px) */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 1.5rem;
+  }
+
+  .hero {
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 3rem 1.5rem;
+  }
+
+  .heroTxtContainer,
+  .heroImgContainer {
+    padding: 0;
+  }
+
+  .heroImgContainer img {
+    width: 280px;
+    height: 350px;
+  }
+
+  section {
+    padding: 2rem 1.5rem;
+  }
+
+  .project-card {
+    width: 100%;
+  }
+}
+
+/* 💻 Medium Screens (1024px and up) */
+@media (min-width: 1024px) {
+  .heroImgContainer img {
+    width: 360px;
+    height: 440px;
+  }
+}
+
+/* 🖥️ Large Screens (1440px and up) */
+@media (min-width: 1440px) {
+  .hero {
+    padding: 5rem 8rem;
+  }
+
+  section {
+    padding: 4rem 8rem;
+  }
+
+  .navbar {
+    padding: 1rem 8rem;
+  }
+}
