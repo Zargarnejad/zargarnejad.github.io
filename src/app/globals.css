@@ -141,6 +141,10 @@ a {
   text-decoration: none;
 }
 
+.link{
+  color:rgb(48, 136, 165);
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
@@ -175,8 +179,8 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 3rem;
-  background-color: #0A3D62;
-  color: #ffffff;
+  color: #0A3D62;
+  background-color: #ffffff;
 }
 .nav-links {
     font-size:large;
@@ -185,7 +189,7 @@ a:hover {
   gap: 1rem;
 }
 .nav-links li a {
-  color: #ffffff;
+  color: #0A3D62;
 }
 
 /* Hero Section */
@@ -310,11 +314,13 @@ footer {
   .heroTxtContainer,
   .heroImgContainer {
     padding: 0;
+
   }
 
   .heroImgContainer img {
     width: 280px;
     height: 350px;
+    border-radius: 50%;
   }
 
   section {
@@ -356,7 +362,7 @@ body,
 .projects,
 .project-card,
 .contact,
-footer,
+.footer,
 .navbar,
 .btn {
   transition: background-color 0.4s ease, color 0.4s ease;

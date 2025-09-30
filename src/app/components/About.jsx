@@ -9,9 +9,7 @@ export default function About() {
         experience in web development through practical projects using modern
         technologies like JavaScript, Node.js, React, and SQL. Passionate about
         building user-centered digital products and contributing to development
-        teams with both technical and interpersonal skills. Known for being
-        adaptable, detail-oriented, and a fast learner with a drive for
-        continuous growth.
+        teams with both technical and interpersonal skills. 
       </p>
     </section>
   );
