@@ -554,7 +554,7 @@ body.dark .project-card img {
 }
 
 .project-images img {
-  border-radius: 0.2rem;
+  border-radius: 0.5rem;
   width: 9rem;
   height: 12rem;
   object-fit: cover;
