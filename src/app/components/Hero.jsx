@@ -9,6 +9,10 @@ export default function Hero() {
           experience as a senior support supervisor. Known for being adaptable,
           detail-oriented, and a fast learner with a drive for continuous
           growth.
+    
+          Passionate about building user-centered digital products and
+          contributing to development teams with both technical and
+          interpersonal skills.
         </p>
         {/* <a href="#projects" className="btn">
           See My Work
