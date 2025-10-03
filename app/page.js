@@ -1,9 +1,6 @@
-
-import Hero from "../Hero";
-import Projects from "../Projects";
-import Blogs from "../Blogs";
-
-
+import Hero from "@components/Hero";
+import Projects from "@components/Projects";
+import Blogs from "@components/Blogs";
 
 const skills = [
   "React",
@@ -14,9 +11,7 @@ const skills = [
   "Problem Solving",
   "Team Working",
   "Trobel Shooting",
-  
 ];
-
 
 export default function Homepage() {
   return (
@@ -39,4 +34,4 @@ export default function Homepage() {
       <Blogs />
     </>
   );
-    }
+}

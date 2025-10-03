@@ -1,4 +1,5 @@
-export default function ProjectCard({
+export default function ProjectInfo({
+  category,
   title,
   image,
   description,
@@ -7,6 +8,7 @@ export default function ProjectCard({
 }) {
   return (
     <div className="project-card">
+      <h4>{category}</h4>
       <h3>{title}</h3>
       <img src={image} alt={title} />
       <p>{description}</p>

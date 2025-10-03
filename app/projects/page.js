@@ -1,5 +1,4 @@
-
-import styles from "../../components/my-projects/myProjects.module.css";
+import styles from "./projects.module.css";
 
 export default function ProjectsPage() {
   return (
@@ -7,15 +6,15 @@ export default function ProjectsPage() {
       <div className={styles.container}>
         <h2 className={styles.title}>My projects</h2>
         <p className={styles.subtitle}>
-          Lorem occaecat proident excepteur commodo et nulla eiusmod. Elit esse
-          aute officia dolor elit aute.
+          In this page you can see my projects which are created by HTML, CSS, JavaScript, React, Node.js , ...
+          You can find the category of each project on top before subject information in each card. 
         </p>
 
         {/* Project 1 - Pink (3 images) */}
         <div className={`${styles.projectCard} ${styles.pink}`}>
           <div className={styles.text}>
-            <span className={styles.category}>Product Photography</span>
-            <h3>Paris secrets</h3>
+            <span className={styles.category}>UX/UI Redesign</span>
+            <h3>Cup Cake</h3>
             <p>
               Sint occaecat deserunt aliquip do occaecat ut quis. Cupidatat
               magna fugiat quis sit duis est in volup.
@@ -34,8 +33,8 @@ export default function ProjectsPage() {
         {/* Project 2 - Blue (2 images, not aligned) */}
         <div className={`${styles.projectCard} ${styles.blue}`}>
           <div className={styles.text}>
-            <span className={styles.category}>Portrait</span>
-            <h3>Oceanic feeling</h3>
+            <span className={styles.category}>UX/UI design</span>
+            <h3>Minimal Lightening</h3>
             <p>
               Sint occaecat deserunt aliquip do occaecat ut quis. Cupidatat
               magna fugiat quis sit duis est in volup.
